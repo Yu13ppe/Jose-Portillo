@@ -1131,6 +1131,7 @@ section .container {
   display: none;
   background: rgba(255, 255, 255);
   background: #6D147F;
+  color: #ffffff;
   text-align: left;
   padding: 15px;
   font-weight: 600;
